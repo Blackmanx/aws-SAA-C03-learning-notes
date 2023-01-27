@@ -475,7 +475,8 @@ relative weight or importance:
 ## Management and Governance:
 1. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/Blackmanx/aws-certification-learning/tree/main/module-10#section-1" target="_blank"> AWS Auto Scaling </a>
 2. <img src="./images/solid/check.png" width="20px">  <a href="https://github.com/Blackmanx/aws-certification-learning/tree/main/module-20#section-2" target="_blank"> AWS CloudFormation </a>
-3. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS CloudTrail </a>
+3. <img src="./images/solid/check.png" width="20px">  <a href="#" target="[Module 10 - AWS Auto Scaling](https://github.com/Blackmanx/aws-certification-learning/tree/main/module-20#section-3)
+"> AWS CloudTrail </a>
 4. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> Amazon CloudWatch</a>
 5. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Command Line Interface (AWS CLI)</a>
 6. <img src="./images/solid/noCheck.png" width="20px">  <a href="#" target="_blank"> AWS Compute Optimizer</a>
